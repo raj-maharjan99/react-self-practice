@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  height: 100%;
+  min-height: 100%;
+  font-family: sans-serif;
+  /* background-image: url(https://img.freepik.com/free-vector/game-landscape-with-tropical-plants_105738-749.jpg?w=1380&t=st=1694103314~exp=1694103914~hmac=68dd17fb2e210f3d990f725193c798e7e979ed51c79fab90abe600b991d09c50);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%, 100%;
+   */
+}
